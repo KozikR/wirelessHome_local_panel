@@ -1,0 +1,1 @@
+wirelessHome - local panel
